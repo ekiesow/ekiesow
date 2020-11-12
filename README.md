@@ -1,8 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/ekiesow/ekiesow/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/ekiesow/ekiesow/main/wave.gif" width="30px">
 
 My name is Eric and I'm a student at California State Univeristy, Chico. I'm also an incomming Solutions Architect at AWS. You can find me on [![LinkedIn][2.2]][2]
 
-[2.2]: https://raw.githubusercontent.com/ekiesow/ekiesow/master/linkedin-24x24.png (LinkedIn icon)
+[2.2]: https://raw.githubusercontent.com/ekiesow/ekiesow/main/linkedin-24x24.png (LinkedIn icon)
 
 [2]: https://www.linkedin.com/in/eric-kiesow-cs/
 
