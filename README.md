@@ -1,12 +1,12 @@
 # Hi there <img src="https://raw.githubusercontent.com/ekiesow/ekiesow/main/wave.gif" width="30px">
 
-My name is Eric and I'm a student at California State Univeristy, Chico. I'm also an incomming Solutions Architect at AWS. You can find me on [![LinkedIn][2.2]][2]
+My name is Eric and I'm a student at California State Univeristy, Chico. I'm also an incomming Solutions Architect at AWS. You can find me on [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/ekiesow/ekiesow/main/linkedin-16x16.png (LinkedIn icon)
 
 [2]: https://www.linkedin.com/in/eric-kiesow-cs/
 
-:floppy_disk: I’m a student currently working on my senior project - [BeerMe](https://github.com/ekiesow/BeerMe)
+:floppy_disk: I’m a student currently working on my senior project - [BeerMe](https://github.com/ekiesow/BeerMe)<br>
 :thinking: I’m currently learning [Rust](https://github.com/ekiesow/the_book)
 
 ## Technology & Tools
